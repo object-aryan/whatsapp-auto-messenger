@@ -16,9 +16,9 @@ public class WhatsappAutoMessenger {
 
         // define your messages here
 		String wishes[] = {
-		    "Happy bday", 
+		    "😎😎", 
 		    "happy again!!",
-		    "Happy bday last time :p"
+		    " :p"
 		}; 
 
 		MouseKeyboardControl mouseKeyboardControl = new MouseKeyboardControl();
